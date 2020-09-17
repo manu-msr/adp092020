@@ -25,6 +25,10 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
 
 - [Sesion 1: Estimados de Locación y Variabilidad](./Sesion-01/Readme.md)
 
+### Notas de Clase
+
+- [Nota de Clase 1: *Estimados de locación y variabilidad*](notas/adpn01.pdf)
+
 ### Instalaciones
 
 https://bedu.org/blog/tecnologia/instalaciones-para-el-analisis-de-datos-con-python/
