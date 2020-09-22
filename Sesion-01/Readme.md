@@ -93,7 +93,3 @@ Tres de los estadísticos de orden más comunes son el **Rango**, los **Percenti
 ### 3. Postwork :memo:
 
 [**`Postwork Sesión 1`**](Postwork/Readme.md)
-
-<br/>
-
-[`Anterior`](../README.md) | `Siguiente`

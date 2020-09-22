@@ -23,11 +23,9 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
 
 ### Contenido
 
-- [Sesion 1: Estimados de Locación y Variabilidad](./Sesion-01/Readme.md)
-
-### Notas de Clase
-
-- [Nota de Clase 1: *Estimados de locación y variabilidad*](notas/adpn01.pdf)
+- [Sesion 1: Estimados de Locación y Variabilidad](./Sesion-01/Readme.md)   
+  <a href="presentaciones/adpp01.pdf">Presentación</a>
+- [Sesión 2: Introducción a la visualización de datos: Distribuciones](./Sesion-02/Readme.md)
 
 ### Instalaciones
 

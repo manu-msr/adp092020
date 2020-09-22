@@ -1,7 +1,10 @@
+[`Análisis de Datos con Python`](../README.md) > `Sesión 2`
 
 ## Sesión 02: Introducción a la visualización de datos: Distribuciones
 
-### 1. Objetivos
+<img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
+
+### 1. Objetivos :dart:
 
 - Comprender el cocncepto de distribución e identificar la distribución de nuestros datos junto con su importancia.
 - Utilizar la librería Seaborn.
@@ -10,7 +13,7 @@
 - Clasificar algunas de las formas que generan los histogramas.
 - Conocer las gráficas de densidad como una alternativa a los histogramas clásicos.
 
-### 2. Contenido
+### 2. Contenido :blue_book:
 
 <ins>Distribuciones de Datos</ins>
 
@@ -90,6 +93,6 @@ De igual manera, las gráficas de densidad son una gran herramienta para compara
 
 ---
 
-### 3. Postwork
+### 3. Postwork :memo:
 
 [**`Postwork Sesión 2`**](Postwork/Readme.md)
