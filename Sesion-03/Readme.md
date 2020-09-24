@@ -1,7 +1,10 @@
+[`Análisis de Datos con Python`](../README.md) > `Sesión 3`
 
 ## Sesión 03: Exploración de Variables Categóricas y Análisis Multivariable
 
-### 1. Objetivos
+<img src="../imagenes/pizarron.png" align="right" height="100" width="100" hspace="10">
+
+### 1. Objetivos :dart:
 
 - Identificar distintas técnicas para explorar y visualizar variables categóricas.
 - Añadir anotaciones a nuestras gráficas para hacerlas más comprensibles.
@@ -10,7 +13,7 @@
 - Producir más de una gráfica al mismo tiempo para compararlas.
 - Graficar un conjunto de datos numéricos agrupados de acuerdo a una variable categórica.
 
-### 2. Contenido
+### 2. Contenido :blue_book:
 
 <ins>Variables Categóricas</ins>
 
@@ -97,6 +100,6 @@ Las tablas de contingencia son muy útiles cuando queremos hacer conteo de frecu
 
 ---
 
-### 3. Postwork
+### 3. Postwork :memo:
 
 [**`Postwork Sesión 3`**](Postwork/Readme.md)
