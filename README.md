@@ -27,7 +27,9 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
   [**`Presentación`**](presentaciones/adpp01.pdf)
 - [Sesión 2: Introducción a la visualización de datos: Distribuciones](./Sesion-02/Readme.md)   
   [**`Presentación`**](presentaciones/adpp02.pdf)
-- [Sesión 3: Exploración de Variables Categóricas y Análisis Multivariable](./Sesion-03/Readme.md)
+- [Sesión 3: Exploración de Variables Categóricas y Análisis Multivariable](./Sesion-03/Readme.md)   
+  [**`Presentación`**](presentaciones/adpp03.pdf)
+- [Sesión 4: Correlaciones y Regresión Lineal Simple](./Sesion-04/Readme.md)
 
 ### Instalaciones
 
