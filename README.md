@@ -29,7 +29,13 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
   [**`Presentación`**](presentaciones/adpp02.pdf)
 - [Sesión 3: Exploración de Variables Categóricas y Análisis Multivariable](./Sesion-03/Readme.md)   
   [**`Presentación`**](presentaciones/adpp03.pdf)
-- [Sesión 4: Correlaciones y Regresión Lineal Simple](./Sesion-04/Readme.md)
+- [Sesión 4: Correlaciones y Regresión Lineal Simple](./Sesion-04/Readme.md)   
+  [**`Presentación`**](presentaciones/adpp04.pdf)
+- [Sesión 5: Distribuciones muestrales y técnicas de evaluación de modelos](./Sesion-05/Readme.md)   
+  [**`Presentación`**](presentaciones/adpp05.pdf)
+- [Sesión 6: Visualización de Datos Avanzada](./Sesion-06/Readme.md)
+- [Sesión 7: Pruebas A/B y Procesamiento de Lenguaje Natural](./Sesion-07/Readme.md)
+- [Sesión 8: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](./Sesion-08/Readme.md)
 
 ### Instalaciones
 
